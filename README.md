@@ -1,6 +1,6 @@
 # Hi there, I'm [Gatik Rajput] 👋
 
-I'm a passionate React developer with 2+ years of experience, specializing in building user-friendly web applications using Next.js and crafting beautiful UIs with Tailwind CSS. I enjoy turning complex problems into simple and elegant solutions while focusing on performance, maintainability, and user experience.
+I'm a passionate React developer with 3+ years of experience, specializing in building user-friendly web applications using Next.js and crafting beautiful UIs with Tailwind CSS. I enjoy turning complex problems into simple and elegant solutions while focusing on performance, maintainability, and user experience.
 
 ## 🚀 My Expertise
 
