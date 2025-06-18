@@ -1,4 +1,7 @@
-# Hi there, I'm [Gatik Rajput] 👋
+<h1 align="center">Hi 👋, I'm Gatik Rajput</h1>
+<h3 align="center">A passionate developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grajput08" alt="grajput08" /></a> </p>
 
 I'm a passionate React developer with 4+ years of experience, specializing in building user-friendly web applications using Next.js and crafting beautiful UIs with Tailwind CSS. I enjoy turning complex problems into simple and elegant solutions while focusing on performance, maintainability, and user experience.
 
