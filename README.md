@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grajput08" alt="grajput08" /></a> </p>
 
-## My Overview
+## 🌱 My Overview
 
 I'm a passionate React developer with 4+ years of experience, specializing in building user-friendly web applications using Next.js and crafting beautiful UIs with Tailwind CSS. I enjoy turning complex problems into simple and elegant solutions while focusing on performance, maintainability, and user experience.
 
